@@ -43,7 +43,7 @@ A full-stack **Student Management App** built with **Flutter** (Frontend) and **
 ```bash
 cd backend/
 python -m venv env
-source env/bin/activate  # on Windows: env\Scripts\activate
+env\Scripts\activate  # on Windows
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
