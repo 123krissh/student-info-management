@@ -22,7 +22,6 @@ A full-stack **Student Management App** built with **Flutter** (Frontend) and **
 
 ### 🌐 Backend API (Django REST Framework)
 
-- Token-based authentication (JWT)
 - CRUD APIs for students, internships, projects, and opportunities
 - Media upload support for certificates
 
@@ -32,7 +31,7 @@ A full-stack **Student Management App** built with **Flutter** (Frontend) and **
 | -------------- | --------------------- |
 | Flutter 3.19.2 | Django REST Framework |
 | Provider/Bloc  | Django ORM, SQLite    |
-| REST API       | JWT Authentication    |
+| REST API       |                       |
 
 ---
 
